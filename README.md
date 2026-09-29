@@ -28,9 +28,10 @@ A organização principal do projeto é:
 ```text
 experimento/
 ├── instrucoes/
+│   ├── instrucoes_enviadas_aos_professores.pdf
 │   └── instrucoes-experimento.pdf
 ├── formulario/
-│   ├── formulario-respostas.md
+│   └── formulario-respostas.md
 └── README.md
 ```
 
