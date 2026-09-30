@@ -32,6 +32,9 @@ experimento/
 │   └── instrucoes-experimento.pdf
 ├── formulario/
 │   └── formulario-respostas.md
+├── materiais_consultados/
+│   ├── EVIL Planning - Todos Artigos.csv
+│   └── EVIL Planning - materiais educacionais.csv
 └── README.md
 ```
 
