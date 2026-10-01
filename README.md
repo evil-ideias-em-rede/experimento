@@ -35,6 +35,8 @@ experimento/
 ├── materiais_consultados/
 │   ├── EVIL Planning - Todos Artigos.csv
 │   └── EVIL Planning - materiais educacionais.csv
+├── respostas/
+│   └── respostas_anonimizadas_formulario.csv
 └── README.md
 ```
 
@@ -45,6 +47,14 @@ Contém o documento utilizado para apresentar aos participantes as orientações
 ### `formulario/`
 
 Contém o instrumento utilizado para coletar as respostas dos participantes.
+
+### `materiais_consultados/`
+
+Contém as referências consultadas para produzir o artigo e desenhar o experimento.
+
+### `respostas/`
+
+Contém a planilha com as respostas dos professores participantes do experimento.
 
 O formulário online utilizado durante a coleta é mantido no Google Forms. Os arquivos deste diretório documentam o conteúdo do instrumento utilizado no experimento.
 
